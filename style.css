@@ -1,0 +1,121 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Inter', sans-serif;
+    
+}
+.principal{
+    display: inline-flex;
+    background-color: #272727fd;
+
+}
+.container_menu_lateral{
+    background-color: #000000fd;
+    width: 25rem;
+    height: 75rem;
+    align-items: center;
+    text-align: center;
+    padding-top: 2rem;
+    color: white;
+    border-right:1.5px solid #e21b1b;
+}
+.menu_lateral_titulo{
+    color: white;
+    padding-bottom: 1rem;
+    
+}
+.menu_lateral_titulo h1{
+    font-weight: 400;
+}
+#img1 {
+    width: 238px;
+    height: 238px;
+    border-radius: 50%;
+}
+.perfil_texto{
+    margin-top: 1.5rem;
+}
+.perfil_texto p{
+    margin-left: 5rem;
+    text-align: left;
+}
+.redes_sociais{
+    color: white;
+    margin-top: 4.1rem;
+    padding-bottom: 2.5rem;
+    border-bottom: 1px solid #e21b1b;
+
+}
+.redes_sociais_img{
+    width: 100%;
+    height: 100%;
+
+}
+.redes_sociais_img img{
+    width: 44px;
+    height: 44px;
+    margin: 0 20px;
+}
+.container_principal{
+    color: white;
+    width: 61.188rem;
+    height: 30.1rem;
+    margin-top: 4.5rem;
+    margin-left: 2rem;
+    margin-right: 1rem;
+    border-bottom: 1px solid #e21b1b;
+}
+.titulo_principal{
+    height: 5rem;
+}
+.titulo_principal h1{
+    font-weight: 400;
+    font-size: 48px;   
+}
+.subtitulo {
+    height: 5rem;
+}
+.subtitulo h1{
+    color: #af2020;
+    font-weight: 400;
+    font-size: 48px;
+
+}
+.paragrafo_principal p{
+    font-size: 25px;
+}
+.container_filmes{
+    color: white;
+    width: 61rem;
+    margin-top: 1.5rem;
+    margin-left: 2rem;
+    
+}
+.aparicoes{
+    height: 3.5rem;
+}
+.aparicoes h1{
+    font-weight: 400;
+    font-size: 30px;
+}
+.titulo_footer{
+    display: flex;
+    width: 10rem;
+    padding-bottom: 0.9rem;
+}
+.titulo_footer h1{
+    margin-left: 12px;
+    font-weight: 400;
+
+}
+.cor{
+    width: 5px;
+    height: 15px;
+    background-color: #d12626;
+    
+}
+.filmes_img{
+    display:flex;
+    justify-content:space-between;
+}
